@@ -22,4 +22,3 @@ Navigate to weekly folders for daily tasks. Practice 1-2 hours/day.
 - Communities: Reddit r/datascience, r/Azure.
 - Extend learning with free Azure certifications on Microsoft Learn.
 
-Fork this repo and contribute your notes!
