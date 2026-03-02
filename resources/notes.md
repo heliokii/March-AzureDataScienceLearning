@@ -1,0 +1,13 @@
+**Prerequisites — March 1**
+
+> ☐ Create a free Azure account at azure.microsoft.com/free
+> 
+> 
+> ☐ Install Python from python.org
+> 
+> ☐ Install VS Code from code.visualstudio.com
+> 
+> ☐ Bookmark Microsoft Learn at learn.microsoft.com
+>
+
+March 1 - Read lessons 1–2 from Microsoft's "Data Science for Beginners" on GitHub
