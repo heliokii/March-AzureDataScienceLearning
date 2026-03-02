@@ -11,3 +11,4 @@
 >
 
 March 1 - Read lessons 1–2 from Microsoft's "Data Science for Beginners" on GitHub
+March 2 - Watch the first 20 minutes of "Data Science Beginners Course on Azure" on YouTube
