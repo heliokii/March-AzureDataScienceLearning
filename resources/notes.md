@@ -15,3 +15,5 @@ March 1 - Read lessons 1–2 from Microsoft's "Data Science for Beginners" on Gi
 March 2 - Watch the first 20 minutes of "Data Science Beginners Course on Azure" on YouTube
 
 March 3 -  Complete GitHub lessons 3–5: Variables, loops, and functions
+
+March 4 - Practice code examples in VS Code
