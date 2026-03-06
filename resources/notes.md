@@ -19,3 +19,5 @@ March 3 -  Complete GitHub lessons 3–5: Variables, loops, and functions
 March 4 - Practice code examples in VS Code
 
 March 5 -  Complete Microsoft Learn module: "Get started with Python"
+
+March 6 - Complete GitHub lessons 6–7: Intro to data types and simple stats
