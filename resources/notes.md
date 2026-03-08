@@ -1,3 +1,4 @@
+
 **Prerequisites — March 1**
 
 > ☐ Create a free Azure account at azure.microsoft.com/free
@@ -23,3 +24,5 @@ March 5 -  Complete Microsoft Learn module: "Get started with Python"
 March 6 - Complete GitHub lessons 6–7: Intro to data types and simple stats
 
 March 7 - Download a free dataset from Kaggle (kaggle.com/datasets)
+        - Write a simple Python script to load and summarize a CSV file
+March 8 - Complete Microsoft Learn path: "Azure Fundamentals" — cloud concepts & core services
