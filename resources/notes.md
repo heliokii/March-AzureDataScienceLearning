@@ -27,4 +27,4 @@ March 7 - Download a free dataset from Kaggle (kaggle.com/datasets) & Write a si
 
 March 8 - Complete Microsoft Learn path: "Azure Fundamentals" — cloud concepts & core services
 
-March 9 - 
+March 9 - Watch the first hour of "Microsoft Azure Full Course 2026" on YouTube for portal navigation
