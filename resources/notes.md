@@ -27,3 +27,4 @@ March 7 - Download a free dataset from Kaggle (kaggle.com/datasets) & Write a si
 
 March 8 - Complete Microsoft Learn path: "Azure Fundamentals" — cloud concepts & core services
 
+March 9 - 
