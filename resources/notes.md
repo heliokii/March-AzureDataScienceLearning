@@ -31,4 +31,4 @@ March 9 - Watch the first hour of "Microsoft Azure Full Course 2026" on YouTube 
 
 March 10 - Complete Microsoft Learn path: "Introduction to Microsoft Azure Data Analytics"
 
-March 11 - 
+March 11 - In Azure portal, create a free storage account
