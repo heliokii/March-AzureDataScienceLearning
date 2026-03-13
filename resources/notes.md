@@ -34,3 +34,5 @@ March 10 - Complete Microsoft Learn path: "Introduction to Microsoft Azure Data 
 March 11 - In Azure portal, create a free storage account
 
 March 12 - Complete Microsoft Learn module: "Describe the core architectural components of Azure"
+
+March 13 - 
