@@ -37,4 +37,4 @@ March 12 - Complete Microsoft Learn module: "Describe the core architectural com
 
 March 13 - Watch videos 1–3 of the "Data Science in the Azure Cloud" YouTube playlist
 
-March 14 - 
+March 14 - Set up a free Azure resource group and storage blob for data
