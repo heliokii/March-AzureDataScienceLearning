@@ -36,3 +36,5 @@ March 11 - In Azure portal, create a free storage account
 March 12 - Complete Microsoft Learn module: "Describe the core architectural components of Azure"
 
 March 13 - Watch videos 1–3 of the "Data Science in the Azure Cloud" YouTube playlist
+
+March 14 - 
