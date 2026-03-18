@@ -44,3 +44,5 @@ March 15 - Complete GitHub lessons 8–10: NumPy and Pandas for data handling
 March 16 - 
 
 March 17 - 
+
+March 18 - 
