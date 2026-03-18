@@ -43,6 +43,6 @@ March 15 - Complete GitHub lessons 8–10: NumPy and Pandas for data handling
 
 March 16 - Complete Microsoft Learn module: "Discover data analysis" (36 min)
 
-March 17 - 
+March 17 - Complete GitHub lessons 11–12: Matplotlib/Seaborn basics and intro stats
 
 March 18 - 
