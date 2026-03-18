@@ -42,3 +42,5 @@ March 14 - Set up a free Azure resource group and storage blob for data
 March 15 - Complete GitHub lessons 8–10: NumPy and Pandas for data handling
 
 March 16 - 
+
+March 17 - 
