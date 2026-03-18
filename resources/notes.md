@@ -40,3 +40,5 @@ March 13 - Watch videos 1–3 of the "Data Science in the Azure Cloud" YouTube p
 March 14 - Set up a free Azure resource group and storage blob for data
 
 March 15 - Complete GitHub lessons 8–10: NumPy and Pandas for data handling
+
+March 16 - 
