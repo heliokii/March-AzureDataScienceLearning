@@ -45,4 +45,4 @@ March 16 - Complete Microsoft Learn module: "Discover data analysis" (36 min)
 
 March 17 - Complete GitHub lessons 11–12: Matplotlib/Seaborn basics and intro stats
 
-March 18 - 
+March 18 - Practice: Visualize a dataset in Python using Matplotlib or Seaborn
