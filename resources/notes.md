@@ -47,4 +47,4 @@ March 17 - Complete GitHub lessons 11–12: Matplotlib/Seaborn basics and intro 
 
 March 18 - Practice: Visualize a dataset in Python using Matplotlib or Seaborn
 
-March 19 - 
+March 19 - Complete Microsoft Learn path: "Explore and configure the Azure Machine Learning workspace"
