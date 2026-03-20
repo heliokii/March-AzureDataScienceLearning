@@ -49,4 +49,4 @@ March 18 - Practice: Visualize a dataset in Python using Matplotlib or Seaborn
 
 March 19 - Complete Microsoft Learn path: "Explore and configure the Azure Machine Learning workspace"
 
-March 20 - 
+March 20 - Watch Azure ML basics sections of "Data Science Beginners Course on Azure" on YouTube
