@@ -53,4 +53,4 @@ March 20 - Watch Azure ML basics sections of "Data Science Beginners Course on A
 
 March 21 -  Build a simple linear regression model in Python using scikit-learn
 
-March 22 - 
+March 22 - Complete Microsoft Learn: "Training for Data Scientists" path — Azure ML setup modules
