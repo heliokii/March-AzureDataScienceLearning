@@ -52,3 +52,5 @@ March 19 - Complete Microsoft Learn path: "Explore and configure the Azure Machi
 March 20 - Watch Azure ML basics sections of "Data Science Beginners Course on Azure" on YouTube
 
 March 21 -  Build a simple linear regression model in Python using scikit-learn
+
+March 22 - 
