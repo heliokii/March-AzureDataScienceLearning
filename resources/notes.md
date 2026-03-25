@@ -58,3 +58,5 @@ March 22 - Complete Microsoft Learn: "Training for Data Scientists" path — Azu
 March 23 - 
 
 March 24 -
+
+March 25 - 
