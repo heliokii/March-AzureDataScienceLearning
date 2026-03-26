@@ -55,7 +55,7 @@ March 21 -  Build a simple linear regression model in Python using scikit-learn
 
 March 22 - Complete Microsoft Learn: "Training for Data Scientists" path — Azure ML setup modules
 
-March 23 - 
+March 23 - Create a free Azure ML workspace in your Azure account
 
 March 24 -
 
