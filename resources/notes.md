@@ -59,6 +59,6 @@ March 23 - Create a free Azure ML workspace in your Azure account
 
 March 24 - Complete Microsoft Learn modules on preparing data and training models in Azure ML
 
-March 25 - 
+March 25 - Watch Azure ML sections of "Azure Tutorial For Beginners" on YouTube
 
 March 26 -
