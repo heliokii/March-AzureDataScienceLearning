@@ -57,7 +57,7 @@ March 22 - Complete Microsoft Learn: "Training for Data Scientists" path — Azu
 
 March 23 - Create a free Azure ML workspace in your Azure account
 
-March 24 -
+March 24 - Complete Microsoft Learn modules on preparing data and training models in Azure ML
 
 March 25 - 
 
