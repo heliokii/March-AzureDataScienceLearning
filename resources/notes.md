@@ -62,3 +62,5 @@ March 24 - Complete Microsoft Learn modules on preparing data and training model
 March 25 - Watch Azure ML sections of "Azure Tutorial For Beginners" on YouTube
 
 March 26 - Complete Microsoft Learn modules on Azure Synapse and Data Factory basics
+
+March 27 -
