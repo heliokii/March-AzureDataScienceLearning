@@ -65,4 +65,4 @@ March 26 - Complete Microsoft Learn modules on Azure Synapse and Data Factory ba
 
 March 27 - Ingest data into Azure ML
 
-March 28 - 
+March 28 - Run a no-code experiment in Azure ML Studio
