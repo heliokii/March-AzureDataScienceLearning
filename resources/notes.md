@@ -68,3 +68,5 @@ March 27 - Ingest data into Azure ML
 March 28 - Run a no-code experiment in Azure ML Studio
 
 March 29 - Adapt the project to run in Azure ML
+
+March 30 -
