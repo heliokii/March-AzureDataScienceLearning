@@ -69,4 +69,4 @@ March 28 - Run a no-code experiment in Azure ML Studio
 
 March 29 - Adapt the project to run in Azure ML
 
-March 30 -
+March 30 - Complete Microsoft Learn module: "Plan and prepare to develop AI solutions on Azure" (1h 33min)
