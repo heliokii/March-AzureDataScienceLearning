@@ -71,4 +71,4 @@ March 29 - Adapt the project to run in Azure ML
 
 March 30 - Complete Microsoft Learn module: "Plan and prepare to develop AI solutions on Azure" (1h 33min)
 
-March 31 - 
+March 31 - Revisit and review any weak areas from the past month
